@@ -7,6 +7,7 @@ My self-study notes and labs for CS61C.
 - Project1 Done
 - Lab03 Done
 - Project2 Done
+- Lab04 Done
 
 ## Structure
 - labs/: small exercises
