@@ -1,5 +1,4 @@
-# Rewriten by Stephan Kaminsky in RISC-V on 7/30/2018
-# This program accesses an array in ways that provide data about the cache parameters.
+# Rewrite:%w !clip.exen by Stephan Kaminsky in RISC-V on 7/30/2018 # This program accesses an array in ways that provide data about the cache parameters.
 # Coupled with the Data Cache Simulator and Memory Reference Visualization to help students
 #    understand how the cache parameters affect cache performance.
 #
